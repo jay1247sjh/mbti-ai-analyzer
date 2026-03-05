@@ -1,0 +1,74 @@
+[
+  {
+    "id": "q1",
+    "dimension": "EI",
+    "prompt": "At social events, you usually:",
+    "options": [
+      { "text": "Talk to many people", "trait": "E", "weight": 2 },
+      { "text": "Talk to a few familiar people", "trait": "I", "weight": 2 }
+    ]
+  },
+  {
+    "id": "q2",
+    "dimension": "EI",
+    "prompt": "Your energy is restored by:",
+    "options": [
+      { "text": "Being around others", "trait": "E", "weight": 2 },
+      { "text": "Quiet time alone", "trait": "I", "weight": 2 }
+    ]
+  },
+  {
+    "id": "q3",
+    "dimension": "SN",
+    "prompt": "You trust more:",
+    "options": [
+      { "text": "Practical facts", "trait": "S", "weight": 2 },
+      { "text": "Patterns and possibilities", "trait": "N", "weight": 2 }
+    ]
+  },
+  {
+    "id": "q4",
+    "dimension": "SN",
+    "prompt": "When learning, you prefer:",
+    "options": [
+      { "text": "Step-by-step examples", "trait": "S", "weight": 2 },
+      { "text": "Big-picture concepts", "trait": "N", "weight": 2 }
+    ]
+  },
+  {
+    "id": "q5",
+    "dimension": "TF",
+    "prompt": "In tough decisions, you prioritize:",
+    "options": [
+      { "text": "Logic and consistency", "trait": "T", "weight": 2 },
+      { "text": "People and values", "trait": "F", "weight": 2 }
+    ]
+  },
+  {
+    "id": "q6",
+    "dimension": "TF",
+    "prompt": "Others see you as more:",
+    "options": [
+      { "text": "Objective", "trait": "T", "weight": 2 },
+      { "text": "Empathetic", "trait": "F", "weight": 2 }
+    ]
+  },
+  {
+    "id": "q7",
+    "dimension": "JP",
+    "prompt": "Your work style is mostly:",
+    "options": [
+      { "text": "Planned and scheduled", "trait": "J", "weight": 2 },
+      { "text": "Flexible and adaptive", "trait": "P", "weight": 2 }
+    ]
+  },
+  {
+    "id": "q8",
+    "dimension": "JP",
+    "prompt": "You feel better when:",
+    "options": [
+      { "text": "Things are decided", "trait": "J", "weight": 2 },
+      { "text": "Options remain open", "trait": "P", "weight": 2 }
+    ]
+  }
+]
